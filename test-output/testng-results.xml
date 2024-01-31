@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-26T21:17:53Z" name="Default suite" finished-at="2023-12-26T21:19:04Z" duration-ms="70973">
+    <groups>
+    </groups>
+    <test started-at="2023-12-26T21:17:53Z" name="Default test" finished-at="2023-12-26T21:19:04Z" duration-ms="70973">
+      <class name="com.qaalpha.tests.QA_010_Final_Test">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.qaalpha.tests.QA_010_Final_Test@74f5ce22]" started-at="2023-12-26T22:17:53Z" name="setUp" finished-at="2023-12-26T22:17:58Z" duration-ms="5246" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="qa_010_final_test1()[pri:0, instance:com.qaalpha.tests.QA_010_Final_Test@74f5ce22]" started-at="2023-12-26T22:17:58Z" name="qa_010_final_test1" finished-at="2023-12-26T22:19:04Z" duration-ms="65704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- qa_010_final_test1 -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.qaalpha.tests.QA_010_Final_Test@74f5ce22]" started-at="2023-12-26T22:19:04Z" name="cleanUp" finished-at="2023-12-26T22:19:04Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.qaalpha.tests.QA_010_Final_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
